@@ -2,16 +2,16 @@ const slider = document.getElementById("slider");
 
 // Initial data to add inside the slider
 const imagesData = [
-	{ imageName: "/images/1.jpg", alt: "slider-item-1" },
-	{ imageName: "/images/2.jpg", alt: "slider-item-2" },
-	{ imageName: "/images/3.jpg", alt: "slider-item-3" },
-	{ imageName: "/images/4.jpg", alt: "slider-item-4" },
-	{ imageName: "/images/5.jpg", alt: "slider-item-5" },
-	{ imageName: "/images/a.jpg", alt: "slider-item-6" },
-	{ imageName: "/images/b.jpg", alt: "slider-item-7" },
-	{ imageName: "/images/c.jpg", alt: "slider-item-8" },
-	{ imageName: "/images/d.jpg", alt: "slider-item-9" },
-	{ imageName: "/images/e.jpg", alt: "slider-item-10" },
+	{ imageName: "images/1.jpg", alt: "slider-item-1" },
+	{ imageName: "images/2.jpg", alt: "slider-item-2" },
+	{ imageName: "images/3.jpg", alt: "slider-item-3" },
+	{ imageName: "images/4.jpg", alt: "slider-item-4" },
+	{ imageName: "images/5.jpg", alt: "slider-item-5" },
+	{ imageName: "images/a.jpg", alt: "slider-item-6" },
+	{ imageName: "images/b.jpg", alt: "slider-item-7" },
+	{ imageName: "images/c.jpg", alt: "slider-item-8" },
+	{ imageName: "images/d.jpg", alt: "slider-item-9" },
+	{ imageName: "images/e.jpg", alt: "slider-item-10" },
 ];
 const imagesCount = imagesData.length;
 
