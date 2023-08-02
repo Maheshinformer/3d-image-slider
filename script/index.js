@@ -38,7 +38,7 @@ imagesData.forEach((img, index) => {
 
          // Create and append image element to slide item
 	const imageElement = document.createElement("img");
-	imageElement.src = `/images/${img.imageName}`;
+	imageElement.src = `images${img.imageName}`;
 	imageElement.alt = img.alt;
 	liElm.appendChild(imageElement);
 
